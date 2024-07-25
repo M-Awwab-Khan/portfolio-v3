@@ -4,46 +4,16 @@ import "./experience.scss"
 
 const experienceData = [
   {
-    "company": "Talking Yak",
-    "url": "https://talkingyak.com/",
-    "time": "September 2019 - Present",
-    "position": "Consulting Head of Engineering"
+    "company": "Headstarter AI",
+    "url": "https://headstarter.co/",
+    "time": "July 2024 - Present",
+    "position": "Software Engineering Intern"
   },
   {
-    "company": "Ather Energy",
-    "url": "https://www.atherenergy.com/",
-    "time": "Feb 2019 - September 2019",
-    "position": "Engineering Manager"
-  },
-  {
-    "company": "Invaria - Willow",
-    "url": "https://onewillow.com/",
-    "time": "March 2018 - Feb 2019",
-    "position": "Senior Software Engineer"
-  },
-  {
-    "company": "Invaria - Proxfinity",
-    "url": "https://www.proxfinity.com/",
-    "time": "Jan 2016 - March 2018",
-    "position": "Software Engineer"
-  },
-  {
-    "company": "TAAL Tech",
-    "url": "https://www.taaltech.com/",
-    "time": "June 2015 - Jan 2016",
-    "position": "Software Engineer"
-  },
-  {
-    "company": "Virtual Applets",
-    "url": "https://www.crunchbase.com/organization/virtual-applets",
-    "time": "Jan 2013 - June 2015",
-    "position": "Co-Founder"
-  },
-  {
-    "company": "Tringapps - HBO GO",
-    "url": "https://play.google.com/store/apps/details?id=sg.hbo.hbogo&hl=en&gl=US",
-    "time": "Dec 2011 - Jan 2013",
-    "position": "Research Analyst"
+    "company": "AI Club",
+    "url": "https://aiclub.pk/",
+    "time": "March 2024 - Present",
+    "position": "Technical Team Member"
   },
 ]
 
