@@ -7,37 +7,43 @@ const FeaturedProjects = () => (
     <div className="section__content">
       <div className="project blistabloc">
         <figure className="project__pic">
-          <a href="https://passkeynotes.com/" rel="noreferrer" target="_blank">
-            <img src="./images/featured/passkeynotes/frame.png" alt=""/>
+          <a href="https://github.com/M-Awwab-Khan/smart-teaching-assistant" rel="noreferrer" target="_blank">
+            <img src="./images/featured/sta/smart-teaching-assistant mockup.png" alt=""/>
           </a>
         </figure>
         <figcaption className="project__caption">
           <div className="project__name">
-            <a href="https://passkeynotes.com/" rel="noreferrer" target="_blank">Passkey Notes</a>
+            <a href="https://github.com/M-Awwab-Khan/smart-teaching-assistant/" rel="noreferrer" target="_blank">Smart Teaching Assistant</a>
           </div>
-          <p>A Secure Notes taking app, which syncs data across all your devices and stores all the data with AES-256 encryption</p>
+          <p>An application designed to facilitate teachers in managing multiple classes and quizzes, capturing and analyzing student responses via Optical Mark Recognition (OMR), and maintaining a digital whiteboard for class sessions.</p>
         </figcaption>
       </div>
 
       <div className="project screentime">
-        <figure className="project__pic phones">
-          <a href="https://play.google.com/store/apps/details?id=com.talkingyak.app" rel="noreferrer" target="_blank">
-            <div className="phone">
-              <img src="./images/featured/talkingyak/talkingyak_ss1.png" alt=""/>
-            </div>
-            <div className="phone">
-              <img src="./images/featured/talkingyak/talkingyak_ss2.png" alt=""/>
-            </div>
-            <div className="phone">
-              <img src="./images/featured/talkingyak/talkingyak_ss3.png" alt=""/>
-            </div>
+        <figure className="project__pic">
+          <a href="https://github.com/M-Awwab-Khan/lp-price-prediction-and-recommendation" rel="noreferrer" target="_blank">
+            <img src="./images/featured/lpprs/lpprs mockup.png" alt=""/>
           </a>
         </figure>
         <figcaption className="project__caption">
           <div className="project__name">
-            <a href="https://play.google.com/store/apps/details?id=com.talkingyak.app" rel="noreferrer" target="_blank">Talking Yak</a>
+            <a href="https://github.com/M-Awwab-Khan/lp-price-prediction-and-recommendation/" rel="noreferrer" target="_blank">Laptop Price Predictor and Recommender</a>
           </div>
-          <p>Talking Yak is an English learning app specifically created for Hindi and Tamil speakers.</p>
+          <p>A simple application which predicts laptop price based on its features and recommends similar laptops to it.</p>
+        </figcaption>
+      </div>
+
+      <div className="project blistabloc">
+        <figure className="project__pic">
+          <a href="https://github.com/M-Awwab-Khan/collaborative-filtering-based-book-recommender-application" rel="noreferrer" target="_blank">
+            <img src="./images/featured/cbfbr/cbfbr mockup.png" alt=""/>
+          </a>
+        </figure>
+        <figcaption className="project__caption">
+          <div className="project__name">
+            <a href="https://github.com/M-Awwab-Khan/collaborative-filtering-based-book-recommender-application" rel="noreferrer" target="_blank">Book Recommender</a>
+          </div>
+          <p>A desktop application which leverages collaborative filtering recommendation algorithm to recommends books similar to any book.</p>
         </figcaption>
       </div>
     </div>

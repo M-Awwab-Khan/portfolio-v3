@@ -4,122 +4,248 @@ import "./other-projects.scss"
 
 const otherProjectsData = [
   {
-    "name": "GuessBuzz",
-    "url": "https://github.com/skavinvarnan/whistler-ios",
-    "description": "I developed a score prediction app for the IPL as a hobby project during the 2018 season. This app is available on both iOS and Android platforms. It allows users to make score predictions for IPL matches, adding an exciting and interactive element to the cricket-watching experience. <br> <a class='small' href='https://github.com/skavinvarnan/whistler-ios'>👨🏻‍💻Github Source Code👨🏻‍💻</a>",
+    "name": "Personalized Book Recommender",
+    "url": "https://github.com/M-Awwab-Khan/personalized-book-recommender",
+    "description": "A content-based book recommender employing user profiles and NLP techniques.",
     "used": [
-      {"thing": "Node.js"},
-      {"thing": "Firebase"},
-      {"thing": "iOS Native"},
-      {"thing": "Android Native"},
-      {"thing": "MongoDB"},
-      {"thing": "Redis"},
-      {"thing": "Docker"},
-      {"thing": "Digital Ocean"},
-      {"thing": "Swift"},
-      {"thing": "Kotlin"},
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+
+  {
+    "name": "Football Players Detection using YOLOV8",
+    "url": "https://github.com/M-Awwab-Khan/football-players-detection-yolov8",
+    "description": "",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+
+  {
+    "name": "Gesture Gaming with Python",
+    "url": "https://github.com/M-Awwab-Khan/playing-nfs-with-gestures",
+    "description": "Using OpenCV and imutils, I have written a Python program which enables me to play any racing game with four controls using only hand movements.",
+    "used": [
+      {"thing": "Python"}
     ]
   },
   {
-    "name": "Covidstat",
-    "url": "https://www.linkedin.com/posts/kavin-varnan-08083229_covid-covid19-dashboard-activity-6668032584783663104-cRzB?utm_source=share&utm_medium=member_desktop",
-    "description": "I've developed an elegant web application that displays COVID-19 statistics. The website dynamically retrieves data from reputable sources such as John Hopkins University and government websites to ensure accuracy. What sets it apart is the inclusion of a <a class='underline-link' href='https://graphql.org'>GraphQL</a> endpoint, providing a public API for seamless data consumption by anyone interested. Explore the API Documentation for further details. This comprehensive tool not only offers insightful statistics but also demonstrates a commitment to transparency and accessibility in sharing crucial information about the pandemic. <br> <a class='small' href='https://github.com/COVID19-SARS-CoV-2/web-covid-api'>👨🏻‍💻API Documentation👨🏻‍💻</a>",
+    "name": "CIFAR10 Object Recognition using RESNET50",
+    "url": "https://github.com/M-Awwab-Khan/CIFAR-10-Object-Recognition-using-RESNET50",
+    "description": "In this project, I have used ResNET50 model to classify CIFAR-10 dataset, which is further integrated into API using FastAPI.",
     "used": [
-      {"thing": "Node.js"},
-      {"thing": "Docker"},
-      {"thing": "MongoDB"},
-      {"thing": "GraphQL"},
-      {"thing": "Redis"},
-      {"thing": "Digital Ocean"},
-      {"thing": "API"},
-      {"thing": "Open-Source"},
-      {"thing": "React"},
+      {"thing": "Jupyter Notebook"}
     ]
   },
   {
-    "name": "Gallery For Lollipop",
-    "url": "https://play.google.com/store/apps/details?id=com.gallery.lollipop",
-    "description": "When Google introduced Google Photos, they unexpectedly removed the widely-used Gallery app from Android with the release of Android Lollipop. Leveraging the open-source code from Android, I took it upon myself to recreate and revive the Gallery app, ensuring users could continue to enjoy a familiar and essential feature. Now, you can experience the convenience and functionality of the Gallery app once again, thanks to this recreation.",
+    "name": "Dog vs Cat Classification Transfer Learning",
+    "url": "https://github.com/M-Awwab-Khan/Dog-vs-Cat-Classification-Transfer-Learning",
+    "description": "This project uses MobileNet_v3 model to classify dogs and cats, integrated into an API for ease of access.",
     "used": [
-      {"thing": "Android Native"},
-      {"thing": "Java"},
-      {"thing": "Open-Source"},
-      {"thing": "AdMob"},
+      {"thing": "Jupyter Notebook"}
     ]
   },
   {
-    "name": "NHS Covid App",
-    "url": "https://x.com/skvarnan/status/1242406271942144000",
-    "description": "At the onset of the pandemic, widespread panic ensued, and there was a noticeable absence of readily accessible guidelines. In collaboration with the NHS, I contributed to the creation of an app designed to streamline the dissemination of crucial guidelines. This innovative solution not only facilitated easy updates for the NHS but also addressed the challenge of limited internet connectivity within hospitals. The app's offline functionality ensured that vital information remained accessible, even in areas with restricted internet access, supporting healthcare professionals in their critical work during challenging circumstances. <br> <a class='small' href='https://github.com/skavinvarnan/nhs-covid-flutter'>👨🏻‍💻Github Source Code👨🏻‍💻</a>",
+    "name": "MNIST Handwritten Digit Classification API",
+    "url": "https://github.com/M-Awwab-Khan/MNIST-Handwritten-Digit-Classification-API",
+    "description": "A neural network which classifies handwritten digits integrated into a FastAPI.",
     "used": [
-      {"thing": "Android Native"},
-      {"thing": "iOS Native"},
-      {"thing": "Node.js"},
-      {"thing": "Strapi"},
-      {"thing": "MongoDB"},
-      {"thing": "Docker"},
-      {"thing": "GraphQL"},
-      {"thing": "Digital Ocean"},
-      {"thing": "Swift"},
-      {"thing": "Kotlin"},
+      {"thing": "Jupyter Notebook"}
     ]
   },
   {
-    "name": "CrossPlatform AES",
-    "url": "https://github.com/skavinvarnan/Cross-Platform-AES",
-    "description": "I've developed an open-source library for AES-256 encryption and decryption of strings, designed to seamlessly integrate across Android, iOS, and Javascript platforms. This versatile library enhances data security, offering a robust solution for safeguarding sensitive information. Whether you're working on Android, iOS, or web applications, this library provides a reliable and consistent encryption and decryption mechanism for strings, ensuring data confidentiality and integrity in your projects. <br> <a class='small' href='https://github.com/skavinvarnan/Cross-Platform-AES'>🏆 100+ Starts on Github 🏆</a>",
+    "name": "Breast Cancer Detection Using Neural Network",
+    "url": "https://github.com/M-Awwab-Khan/Breast_Cancer_Detection_Using_Neural_Network",
+    "description": "Classifying breast cancer using neural networks, integrated into an API using FastAPI.",
     "used": [
-      {"thing": "Kotlin"},
-      {"thing": "Swift"},
-      {"thing": "JavaScript"},
+      {"thing": "TensorFlow"}
     ]
   },
   {
-    "name": "Social Evening",
-    "url": "https://github.com/skavinvarnan/SocialEvening",
-    "description": "This was an interview project<br><br>I successfully developed and documented the entire app in an impressive timeframe of less than seven days. This rapid turnaround not only showcases my efficiency in app development but also underscores the meticulous attention given to detailed documentation. The result is a well-crafted application, ready to make an impact with its functionality and comprehensive supporting documentation. <br> <a class='small' href='https://github.com/skavinvarnan/SocialEvening'>👨🏻‍💻Github Source Code👨🏻‍💻</a>",
-    "img": "weather",
+    "name": "Most Comprehensive IMDB Movies Analysis",
+    "url": "https://github.com/M-Awwab-Khan/most-comprehensive-movies-analysis",
+    "description": "The most comprehensive movies analysis which will be converted to a web app in the future.",
     "used": [
-      {"thing": "Android Native"},
-      {"thing": "Kotlin"},
-      {"thing": "Node.js"},
-      {"thing": "Parse Server"},
-      {"thing": "PostgreSQL"},
-      {"thing": "Heroku"},
+      {"thing": "Data Analysis"}
+    ]
+  },
+
+
+  {
+    "name": "Decision Tree Algorithm Implementation in Python",
+    "url": "https://github.com/M-Awwab-Khan/decision-tree-classifier-implementation-python",
+    "description": "Implementation of one of the most popular machine learning algorithms 'Decision Tree' in Python using NumPy.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+
+  {
+    "name": "Whatsapp Chat Analyzer",
+    "url": "https://github.com/M-Awwab-Khan/whatsapp-chat-analyzer",
+    "description": "A fully functional Streamlit app to analyze any WhatsApp chat written in Python.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
     ]
   },
   {
-    "name": "2048 Terminal",
-    "url": "https://github.com/skavinvarnan/2048",
-    "description": "Experience a captivating 2048 game right in your terminal. Immerse yourself in the challenge of this numeric puzzle, all within the simplicity of a command-line interface. Enjoy the strategic thrill as you merge tiles to reach the elusive 2048. Ready for a brain-teasing adventure? Play the terminal-based 2048 game now!. <br> <a class='small' href='https://github.com/skavinvarnan/2048'>👨🏻‍💻Github Source Code👨🏻‍💻</a>",
+    "name": "Neural Network Implementation with Python",
+    "url": "https://github.com/M-Awwab-Khan/neural-network-implementation-python",
+    "description": "This is a simple dense layer based neural network implementation in Python. Can be used to create as many layers and neurons. Modular based approach.",
     "used": [
-      {"thing": "Shell"},
-      {"thing": "JavaScript"},
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+
+  {
+    "name": "Facial Recognition Based Attendance with RealTime Database",
+    "url": "https://github.com/M-Awwab-Khan/facial-recognition-based-attendance-with-realtime-database",
+    "description": "A desktop app written in Python to mark student attendance in real-time database.",
+    "used": [
+      {"thing": "Python"}
+    ]
+  },
+
+  {
+    "name": "Console Based Tic Tac Toe in Python",
+    "url": "https://github.com/M-Awwab-Khan/tic-tac-toe-python",
+    "description": "A simple terminal based interactive tic tac toe game written in Python.",
+    "used": [
+      {"thing": "Python"}
     ]
   },
   {
-    "name": "CIC Calculator",
-    "url": "https://github.com/skavinvarnan/cic-flutter",
-    "description": "Explore an easy-to-use compound interest calculator. This straightforward tool allows you to effortlessly calculate compound interest, making financial planning a breeze. Crunch numbers with simplicity and precision to get a clear understanding of your savings and investments. Try out our user-friendly compound interest calculator for hassle-free financial calculations! <br> <a class='small' href='https://github.com/skavinvarnan/cic-flutter'>👨🏻‍💻Github Source Code👨🏻‍💻</a>",
+    "name": "Email/SMS Spam Classifier",
+    "url": "https://github.com/M-Awwab-Khan/spam-sms-classifier",
+    "description": "An end-to-end reliable spam classifier for both emails and SMS.",
     "used": [
-      {"thing": "Flutter"},
-      {"thing": "Dart"},
-      {"thing": "Android"},
-      {"thing": "iOS"},
-      {"thing": "Web"},
+      {"thing": "Jupyter Notebook"}
     ]
   },
   {
-    "name": "Personal Website V1",
-    "url": "https://github.com/skavinvarnan/skvarnan",
-    "description": "Craft a stunning personal website that highlights your portfolio and achievements. Showcase your work in a professionally designed space tailored to reflect your unique talents. Let's build an online presence that leaves a lasting impression. Elevate your personal brand with a website that speaks volumes about your skills and accomplishments. <br> <a class='small' href='https://github.com/skavinvarnan/skvarnan'>👨🏻‍💻Github Source Code👨🏻‍💻</a>",
+    "name": "Linear Regression Algorithm Implementation in Python",
+    "url": "https://github.com/M-Awwab-Khan/linear-regression-implementation",
+    "description": "Implementation of well known machine learning algorithm namely Linear Regression from scratch written in Python.",
     "used": [
-      {"thing": "React"},
-      {"thing": "Gastby"},
-      {"thing": "JavaScript"},
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+
+  {
+    "name": "Coordinate Geometry OOP",
+    "url": "https://github.com/M-Awwab-Khan/coordinate-geometry-oop",
+    "description": "An object-oriented design of components of coordinate geometry written in Python.",
+    "used": [
+      {"thing": "Python"}
+    ]
+  },
+  {
+    "name": "Predicting Movie Rental Duration",
+    "url": "https://github.com/M-Awwab-Khan/predicting-movie-rental-durations",
+    "description": "In this project, I have built regression models for a DVD rental firm to predict rental duration and evaluated them to recommend the best one.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+  {
+    "name": "Predicting Boston House Prices",
+    "url": "https://github.com/M-Awwab-Khan/predicting-boston-house-prices",
+    "description": "In this project I will be building a model that can provide a price estimate based on a home's characteristics.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+  {
+    "name": "Dr Semmelweis Hand Washing Data Analysis",
+    "url": "https://github.com/M-Awwab-Khan/dr-semmelweis-handwashing-analysis",
+    "description": "Data analysis project focused on analysing causes of discovery of handwashing by Dr Semmelweis and its consequences.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+  {
+    "name": "Analyzing Nobel Prize Winners",
+    "url": "https://github.com/M-Awwab-Khan/analyzing-nobel-prize-winners",
+    "description": "This notebook is focused on uncovering patterns in the past Nobel laureates and learning about the Nobel prize and our world more generally.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+
+  {
+    "name": "Object Oriented Bank Design",
+    "url": "https://github.com/M-Awwab-Khan/object-oriented-bank-design",
+    "description": "An incredible transformation of bank from procedural to functional to object-oriented design.",
+    "used": [
+      {"thing": "Python"}
+    ]
+  },
+  {
+    "name": "Google Play Store Data Analysis",
+    "url": "https://github.com/M-Awwab-Khan/google-playstore-data-analysis",
+    "description": "This project replicates some of the app store analytics provided by companies like App Annie or Sensor Tower.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+  {
+    "name": "Google Trends Time Series Analysis",
+    "url": "https://github.com/M-Awwab-Khan/google-trends-time-series-analysis",
+    "description": "This data analysis project focuses on analyzing google search trends data with the actual time series.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+  {
+    "name": "Predictive Modeling for Agriculture",
+    "url": "https://github.com/M-Awwab-Khan/predictive-modeling-for-agriculture",
+    "description": "In this project, I have applied machine learning to build a multi-class classification model to predict the type of 'crop', while using techniques to avoid multicollinearity.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+  {
+    "name": "Analyzing LEGO Dataset",
+    "url": "https://github.com/M-Awwab-Khan/analyzing-LEGO-dataset",
+    "description": "An in-depth data analysis of LEGO firm, their blocks, colors, themes and a whole lot more.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+  {
+    "name": "Analyzing Popularity of Programming Languages",
+    "url": "https://github.com/M-Awwab-Khan/popularity-of-programming-languages",
+    "description": "A data analysis project focused on analyzing the popularity of programming languages since the creation of Stack Overflow.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+  {
+    "name": "Analyzing College Majors using Pandas",
+    "url": "https://github.com/M-Awwab-Khan/college-major-data-exploration",
+    "description": "A Data Exploration Project in Pandas focused on Analysing the Post-University Salaries of Graduates by Major.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
+    ]
+  },
+  {
+    "name": "End-to-End Blog Implementation in Flask",
+    "url": "https://github.com/M-Awwab-Khan/cool-flask-blog",
+    "description": "A fully-fledged blog web app with posts, users, comments, including all the CRUD operations built using Flask micro web framework.",
+    "used": [
+      {"thing": "CSS"}
+    ]
+  },
+  {
+    "name": "A New Era of Data Analysis in Baseball",
+    "url": "https://github.com/M-Awwab-Khan/A-New-Era-of-Data-Analysis-in-Baseball",
+    "description": "This data analysis project analyzes home runs of two giant baseball players namely Aaron Judge and Giancarlo Stanton.",
+    "used": [
+      {"thing": "Jupyter Notebook"}
     ]
   }
-]
+];
+
 
 const FeaturedProjects = () => (
   <section className="section other-projects">
