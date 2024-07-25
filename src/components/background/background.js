@@ -3,15 +3,15 @@ import * as React from "react"
 
 const backgroundData = {
   title: "Background",
-  part1: "Currently, I serve as the Consulting Head of Engineering at ",
-  part2: "Talking Yak",
-  part2Href: "https://talkingyak.com/",
-  part3: " where I lead a team in developing innovative tech solutions.",
-  line2: "As a hands-on full-stack software engineer, I adeptly bridge the gap between backend and frontend teams, crafting robust architectures in the process. I consistently stay abreast of the latest developments in my field, diligently seeking opportunities to learn and explore emerging technologies.",
+  part1: "Currently, I am studying Software Engineering at ",
+  part2: "NEDUET",
+  part2Href: "https://www.neduet.edu.pk/",
+  part3: " where I am a student of first year giving final exams :)",
+  line2: "Muhammad Awwab Khan is a creative thinker and adept software developer with expertise in Software Development, Artificial Intelligence, and Data Analytics tasks. Proficient in Python programming, Data Analysis, and Predictive Modeling. Currently, I am delving into the realm of Generative AI, focusing on Large Language Models (LLMs), OpenAI, Llama Index, LangChain, and vector databases. The journey includes mastering the intricacies of Natural Language Processing (NLP) and exploring the latest advancements in generative AI",
   line3Part1: "When I'm not in front of a computer screen",
-  line3Part2: ", you'll likely find me engaging in a game of badminton, exploring new cuisines, or delving into spontaneous DIY projects—all of which I enjoy sharing on my ",
-  line3Part3: "YouTube channel",
-  line3Part3Href: "https://www.youtube.com/@kavindiy",
+  line3Part2: ", you'll likely find me indulge in reading novels, doing archery, or delving into spontaneous DIY projects—all of which I enjoy sharing on my ",
+  line3Part3: "LinkedIn profile",
+  line3Part3Href: "https://www.linkedin.com/in/muhammad-awwab-khan/",
   line3Part4: ".",
 };
 const Background = () => (
