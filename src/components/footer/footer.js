@@ -4,23 +4,23 @@ import "./footer.scss"
 const socialData = [
   {
     "title": "email",
-    "url": "mailto:kavin@varnan.me"
+    "url": "mailto:mawwabkhank2006@gmail.com"
   },
   {
     "title": "twitter",
-    "url": "https://twitter.com/skvarnan"
+    "url": "https://twitter.com/mawwabkhan"
   },
   {
     "title": "stackoverflow",
-    "url": "https://stackoverflow.com/users/1452884/kavin-varnan"
+    "url": "https://stackoverflow.com/users/13348011/muhammad-awwab-khan"
   },
   {
     "title": "github",
-    "url": "https://github.com/skavinvarnan"
+    "url": "https://github.com/M-Awwab-Khan"
   },
   {
     "title": "linkedin",
-    "url": "https://www.linkedin.com/in/kavin-varnan-08083229/"
+    "url": "https://www.linkedin.com/in/muhammad-awwab-khan/"
   },
 ]
 const Footer = () => (
@@ -30,7 +30,7 @@ const Footer = () => (
         <span>Developed by&nbsp;</span>
       </div>
       <div className="bottom">
-        <span>Kavin Varnan</span>
+        <span>Muhammad Awwab</span>
         <img className="emoji" src="./images/emojis/rockon.png" alt="emoji"/>
           <span>2024</span>
       </div>
