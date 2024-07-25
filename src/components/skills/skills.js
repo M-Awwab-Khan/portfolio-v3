@@ -2,14 +2,14 @@ import * as React from "react"
 import "./skills.scss"
 
 const skillsData = {
-  "languagesTitle": "Frontend",
-  "languages": ["Flutter", "Dart", "Android", "Kotlin"],
-  "frameworksTitle": "Backend",
-  "frameworks": ["Node.js", "Firebase", "Python", "Java - Spring"],
-  "toolsTitle": "Servers",
-  "tools": ["Scaling", "Serverless", "Microservice", "Monolith"],
-  "designTitle": "Cloud",
-  "design": ["Firebase", "Google Cloud", "AWS", "Digital Ocean"],
+  "languagesTitle": "Development",
+  "languages": ["Flet", "Qt", "PySide6", "Tkinter"],
+  "frameworksTitle": "Languages",
+  "frameworks": ["Node.js", "Firebase", "Python", "C++"],
+  "toolsTitle": "AI",
+  "tools": ["Machine Learning", "Data Science", "Computer Vision", "NLP"],
+  "designTitle": "Design",
+  "design": ["Figma", "Illustrator", "Canva", "CSS"],
 }
 
 const Skills = () => (
